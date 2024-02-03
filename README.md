@@ -1,4 +1,4 @@
-<img width="778" alt="image" src="https://github.com/Vdntrai/Task-Scheduler-with-Voice-Assistant/assets/112953656/519f3c1e-9655-4bad-b958-3c0986a45973">## <u> Problem Statement</u>
+## <u> Problem Statement</u>
 To make the process of creating tasks in a task scheduler more convenient from the classic Task Schedulers and To-do lists.
 
 ## <u>Our Solution</u> 
